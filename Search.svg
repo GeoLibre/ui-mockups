@@ -18,6 +18,17 @@
    sodipodi:docname="Search.svg">
   <defs
      id="defs6634">
+    <linearGradient
+       id="linearGradient5905">
+      <stop
+         id="stop5909"
+         offset="0"
+         style="stop-color:#0ff00a;stop-opacity:1;" />
+      <stop
+         id="stop5911"
+         offset="1"
+         style="stop-color:#22af1f;stop-opacity:1;" />
+    </linearGradient>
     <filter
        id="filter4805"
        inkscape:label="Desaturate"
@@ -686,6 +697,157 @@
        y1="474.36218"
        x2="375"
        y2="496.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#gradient_buttonlike-41-1"
+       id="linearGradient5497-7"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1811792,0,0,1,-77.816476,0)"
+       x1="375"
+       y1="474.36218"
+       x2="375"
+       y2="496.36218" />
+    <linearGradient
+       id="gradient_buttonlike-41-1">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop12131-6-2" />
+      <stop
+         style="stop-color:#f5f5f5;stop-opacity:1;"
+         offset="0.01"
+         id="stop12887-25-6" />
+      <stop
+         style="stop-color:#e6e6e6;stop-opacity:1;"
+         offset="1"
+         id="stop12133-22-4" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#gradient_buttonlike-41-1"
+       id="linearGradient5898"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1811792,0,0,1,-77.816476,0)"
+       x1="375"
+       y1="474.36218"
+       x2="375"
+       y2="496.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5905"
+       id="linearGradient5903"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.005537,0,0,1.785871,-233.90662,161.33382)"
+       x1="352.7149"
+       y1="476.67587"
+       x2="353.25507"
+       y2="494.95175" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5905"
+       id="linearGradient5918"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.005537,0,0,1.785871,-233.90662,161.33382)"
+       x1="352.7149"
+       y1="476.67587"
+       x2="353.25507"
+       y2="494.95175" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#gradient_blue-1"
+       id="linearGradient5918-3"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.005537,0,0,1.785871,-233.90662,161.33382)"
+       x1="350.87097"
+       y1="495.50507"
+       x2="350.87097"
+       y2="473.47424" />
+    <linearGradient
+       id="linearGradient5905-2">
+      <stop
+         id="stop5909-4"
+         offset="0"
+         style="stop-color:#5a5cf4;stop-opacity:1;" />
+      <stop
+         id="stop5911-3"
+         offset="1"
+         style="stop-color:#0851e5;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#gradient_buttonlike-8"
+       id="linearGradient5962"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.005537,0,0,1.785871,-300.058,156.08792)"
+       x1="352.7149"
+       y1="476.67587"
+       x2="353.25507"
+       y2="494.95175" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#gradient_buttonlike-8"
+       id="linearGradient5969"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.005537,0,0,1.785871,-158.71537,156.08792)"
+       x1="350.87097"
+       y1="495.50507"
+       x2="350.87097"
+       y2="473.47424" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#gradient_buttonlike-8-3"
+       id="linearGradient5962-9"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.005537,0,0,1.785871,-300.058,156.08792)"
+       x1="352.7149"
+       y1="476.67587"
+       x2="353.25507"
+       y2="494.95175" />
+    <linearGradient
+       id="gradient_buttonlike-8-3">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop12131-2-6" />
+      <stop
+         style="stop-color:#f5f5f5;stop-opacity:1;"
+         offset="0.01"
+         id="stop12887-2-3" />
+      <stop
+         style="stop-color:#e6e6e6;stop-opacity:1;"
+         offset="1"
+         id="stop12133-7-6" />
+    </linearGradient>
+    <linearGradient
+       y2="494.95175"
+       x2="353.25507"
+       y1="476.67587"
+       x1="352.7149"
+       gradientTransform="matrix(1.005537,0,0,1.785871,-164.32193,156.48259)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient5989"
+       xlink:href="#gradient_buttonlike-8-3"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#gradient_buttonlike-8-3"
+       id="linearGradient6019"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.005537,0,0,1.785871,-164.32193,156.48259)"
+       x1="352.7149"
+       y1="476.67587"
+       x2="353.25507"
+       y2="494.95175" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#gradient_buttonlike-8-3"
+       id="linearGradient6024"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.005537,0,0,1.785871,-164.32193,156.08788)"
+       x1="352.7149"
+       y1="476.67587"
+       x2="353.25507"
+       y2="494.95175" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -696,7 +858,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.14375"
      inkscape:cx="320"
-     inkscape:cy="240"
+     inkscape:cy="205.02732"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -4362,18 +4524,25 @@
    style="fill:#0000ff"
    id="tspan5808">SELECT</tspan> *<tspan
    style="fill:#0000ff"
-   id="tspan5812"> FROM</tspan><tspan
-   style="fill:#ff6600"
-   id="tspan5816"> 'population'</tspan></tspan><tspan
+   id="tspan5812"> </tspan></tspan><tspan
          sodipodi:role="line"
          x="299.86789"
          y="956.26941"
+         style="font-size:16px"
+         id="tspan5844"><tspan
+           style="fill:#0000ff"
+           id="tspan5846">FROM</tspan><tspan
+           style="fill:#ff6600"
+           id="tspan5816"> population</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="299.86789"
+         y="976.26941"
          id="tspan5802"
          style="font-size:16px"><tspan
    style="fill:#0000ff"
    id="tspan5814">WHERE</tspan><tspan
    style="fill:#ff6600"
-   id="tspan5818"> 'density'</tspan> &gt; 50;</tspan></text>
+   id="tspan5818"> density</tspan> &gt; 50;</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -4385,5 +4554,47 @@
          id="tspan5806"
          x="433.06012"
          y="895.71515">50</tspan></text>
+    <rect
+       style="color:#000000;fill:url(#linearGradient5962);fill-opacity:1;fill-rule:nonzero;stroke:#a0a0a0;stroke-width:1.34005952;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect12355-6"
+       width="119.65892"
+       height="42.860905"
+       x="12.161246"
+       y="1000.5589"
+       rx="2.0110741"
+       ry="3.5717423" />
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="72.311028"
+       y="1033.4269"
+       id="text13075-0"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan13077-1"
+         x="72.311028"
+         y="1033.4269"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000">Search</tspan></text>
+    <rect
+       style="color:#000000;fill:url(#linearGradient6024);fill-opacity:1;fill-rule:nonzero;stroke:#a0a0a0;stroke-width:1.34005952;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect12355-6-7"
+       width="119.65892"
+       height="42.860905"
+       x="147.89731"
+       y="1000.5589"
+       rx="2.0110741"
+       ry="3.5717423" />
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="208.0471"
+       y="1033.4268"
+       id="text13075-0-3"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan13077-1-5"
+         x="208.0471"
+         y="1033.4268"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;font-family:Arial;-inkscape-font-specification:Arial">Cancel</tspan></text>
   </g>
 </svg>
